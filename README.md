@@ -40,3 +40,4 @@ Professor: Derzu Omaia.
 -  Todos os dados armazenados no programa devem ser salvos em arquivo, para que ao sair do programa os dados não se percam. E ao abrir o programa novamente os dados salvos devem ser carregados.
 
 
+!Diagrama de classes (![Alt text](<Captura de tela 2023-10-06 224200.png>))
