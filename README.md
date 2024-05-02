@@ -1,4 +1,4 @@
-<h1 align="center">   Marmita CRUD  </h1>
+<h1 align="center">   Delivery de Marmitas CRUD  </h1>
 
 </h1>
 Projeto criado para a disciplina de Linguagem de Programação I, com o desenvolvimento de um sistema de gerenciamento de marmitas com cadastro de clientes e fornecedores feito para avaliar, na prática, os conhecimentos ensinados sobre Programação Orientada a Objetos em C++.
